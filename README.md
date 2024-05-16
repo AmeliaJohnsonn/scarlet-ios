@@ -14,3 +14,4 @@ Scarlet App is a sample application designed for iOS User as the alternative of 
    ```sh
    git clone https://github.com/scarlet/scarlet-app.git
    cd scarlet-app
+Official Website: https://iscarletios.com
